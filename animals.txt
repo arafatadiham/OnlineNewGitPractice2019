@@ -1,4 +1,7 @@
 Dog
 cat
 fish
+cow
+sheep
+
 
