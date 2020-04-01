@@ -1,2 +1,4 @@
 house
 condo
+appartment
+townhouse
