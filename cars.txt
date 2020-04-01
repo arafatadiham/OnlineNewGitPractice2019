@@ -8,4 +8,5 @@ Mercedes S500
 Lexus GX470
 Honda Civic
 Subaru
+Range Rover Velar
 
