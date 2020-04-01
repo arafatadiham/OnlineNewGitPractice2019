@@ -2,3 +2,4 @@ house
 condo
 appartment
 townhouse
+lowrise
