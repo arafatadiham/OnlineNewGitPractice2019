@@ -3,3 +3,4 @@ condo
 appartment
 townhouse
 highrise
+lowrise

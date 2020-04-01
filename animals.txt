@@ -1,6 +1,8 @@
 Dog
 cat
 fish
+tiger
+loin
 cow
 sheep
 
